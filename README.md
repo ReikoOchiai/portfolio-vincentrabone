@@ -1,3 +1,9 @@
+## Color Scheme
+#0D0221
+#0F084B
+#26408B
+#A6CFD5
+#C2E7D9
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
